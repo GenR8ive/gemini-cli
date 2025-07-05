@@ -22,13 +22,6 @@ export default function NavigationMenu() {
             </NavigationMenuLink>
           </Link>
         </NavigationMenuItem>
-        <NavigationMenuItem>
-          <Link to="/second-page">
-            <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-              {t("titleSecondPage")}
-            </NavigationMenuLink>
-          </Link>
-        </NavigationMenuItem>
       </NavigationMenuList>
     </NavigationMenuBase>
   );

@@ -183,6 +183,9 @@
 @layer base {
   body {
     @apply overflow-hidden;
+    background: var(--cyber-dark-bg);
+    color: var(--cyber-text);
+    font-family: 'Share Tech Mono', monospace;
   }
   .draglayer {
     @apply bg-background;

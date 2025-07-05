@@ -6,15 +6,15 @@ i18n.use(initReactI18next).init({
   resources: {
     en: {
       translation: {
-        appName: "electron-shadcn",
-        titleHomePage: "Home Page",
+        appName: "Gemini CLI",
+        titleHomePage: "Gemini Interface",
         titleSecondPage: "Second Page",
       },
     },
     "pt-BR": {
       translation: {
-        appName: "electron-shadcn",
-        titleHomePage: "Página Inicial",
+        appName: "Gemini CLI",
+        titleHomePage: "Interface Gemini",
         titleSecondPage: "Segunda Página",
       },
     },
